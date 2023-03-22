@@ -2,7 +2,7 @@
 
 👋 front end developer resources Javascript / React Js
 
-## resource name
+### resource name
 
  <!-- - [Link]()
  - [Link]()
