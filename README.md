@@ -37,11 +37,29 @@
 ### icons
 
  - [animated-icons](https://unicornicons.com/icons)
- <!--
 
-### resource name
+ ### charts
 
- - [name](link)
- - []()
- - []() 
- -->
+ - [chartscss](https://chartscss.org/)
+ 
+ ### transition
+
+ - [transition](https://www.transition.style/)
+
+
+### js
+
+#### carousel
+
+ - [embla](https://www.embla-carousel.com/)
+ - [swiper](swiperjs.com    )
+ - [slick](kenwheeler.github.io/slick  )
+ - [splidejs](http://splidejs.com/ )
+ - [flicking](https://naver.github.io/egjs-flicking/ )
+ 
+#### scroll  
+ 
+ - [aos ](michalsnik.github.io/aos )
+ - [scrollimator   ](github.com/mxdubois/scrollimator   )
+ - [scrolltrigger ](greensock.com/scrolltrigger  )
+ - [locomotive](locomotivemtl.github.io/locomotive-scroll  )
