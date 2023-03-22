@@ -50,7 +50,6 @@
 ### js
 
 #### carousel
-
  - [embla](https://www.embla-carousel.com/)
  - [swiper](swiperjs.com    )
  - [slick](kenwheeler.github.io/slick  )
@@ -58,7 +57,6 @@
  - [flicking](https://naver.github.io/egjs-flicking/ )
  
 #### scroll  
- 
  - [aos ](michalsnik.github.io/aos )
  - [scrollimator   ](github.com/mxdubois/scrollimator   )
  - [scrolltrigger ](greensock.com/scrolltrigger  )
